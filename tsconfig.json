@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,  // Allow default imports from CommonJS modules
+    "allowSyntheticDefaultImports": true, 
+    "allowImportingTsExtensions": true, // Allow importing .ts extensions
+    "jsx": "react-jsx",
+    "noEmit": true // Prevents TypeScript from emitting JavaScript files
+  }
+}
